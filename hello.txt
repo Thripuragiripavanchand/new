@@ -1,2 +1,2 @@
 hello everyone
-welcome to devops class
+welcome to devops class for batch 2
